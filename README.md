@@ -28,7 +28,11 @@ Total Quantity Sold (19,948)
 Sales by Product Category & Store Location
 
 Hourly & Daily Sales Trends
+## 🛠️ Tools & Technologies Used
 
+- **SQL**: Data extraction, transformation, and aggregation
+- **Power BI**: Data modeling and dashboard creation
+- **MS Excel (optional)**: For initial data review
 Weekday vs Weekend Revenue Distribution
 
 📆 Date Range Analyzed: Jan 1, 2023 – Jun 30, 2023
